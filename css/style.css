@@ -1,0 +1,56 @@
+.header-image{
+    background-image: url('../images/first.png');
+    width: 100%;
+    /* height: 720px; */
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 0 auto;
+}
+.my-navbar{
+    margin: 10px 0 0 180px;
+}
+.nav-item{
+    margin-right: 40px;
+}
+.btn{
+    background-color: #FFAA00;
+    width: 250px;
+    border-radius: 90px;
+    color: #A80E0E;
+    font-size: 27px;
+    font-weight: 23px;
+}
+.card-body{
+    margin-top: 80px;
+    margin-left: 160px;
+}
+.card-title{
+    margin-bottom: 60px;
+    color: #FFFFFF;
+    font-size: 96px;
+    font-weight: 82px;
+}
+.card-text{
+    margin-bottom: 40px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 40px;
+    max-width: 300px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 19px;
+}
+.image-size{
+    width: 100px;
+    height: 90px;
+}
+
+.box-hover:hover{
+    box-shadow: 5px 0 10px #88888888;
+    height: 180px;
+}
+.container-xxl p{
+    font-size: 19px;
+    font-weight: 70px;
+}
