@@ -1,7 +1,10 @@
+header, body{
+    font-family: 'Montserrat';
+}
+
 .header-image{
     background-image: url('../images/first.png');
     width: 100%;
-    /* height: 720px; */
     background-repeat: no-repeat;
     background-size:cover;
     margin: 0 auto;
@@ -50,7 +53,46 @@
     box-shadow: 5px 0 10px #88888888;
     height: 180px;
 }
+
+.footer-hover:hover{
+    box-shadow: 5px 0 10px #88888888;
+    height: 300px;
+}
 .container-xxl p{
     font-size: 19px;
     font-weight: 70px;
+}
+.recipes{
+    font-size: 40px;
+}
+
+.box2-hover:hover{
+    box-shadow: 5px 0 10px #88888888;
+}
+
+.menu-button{
+    max-width: 250px;
+    width: 100%;
+    height: 50px;
+}
+
+.line{
+    background-color: #FFAA00;
+    width: 50px;
+    height: 3px;
+}
+.footer-block{
+    max-width: 250px;
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+}
+.footer-box{
+    max-width: 250px;
+    width: 100%;
+    height: 300px;
+    margin:  auto;
+}
+.footer-box:hover{
+    box-shadow: 5px 0 10px #88888888;
 }
